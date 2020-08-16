@@ -11,7 +11,7 @@ public class Estacionamento {
         System.out.print("minutos da entrada");
         int me = scanner.nextInt();
 
-        System.out.print("hora da saida");
+        System.out.print("hora da saida.");
         int hs = scanner.nextInt();
         System.out.print("minutos da saida");
         int ms = scanner.nextInt();
